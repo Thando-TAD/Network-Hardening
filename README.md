@@ -7,5 +7,6 @@ Its includes defending servers, apps, and cloud resources against intrusions and
 - Uses Amazon Inspector for scanning Vulnerability.
 - Properly handles IAM roles and permissions.
 - Turning on monitoring, logging, and encrypton.
+  
 So all in all it combines threat prevention, automation, and security architecture.
 
