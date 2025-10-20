@@ -8,5 +8,17 @@ Its includes defending servers, apps, and cloud resources against intrusions and
 - IAM Roles and Policies : Enforces least privilege access.
 - CloudWatch & GuardDuty : monitores security metrics and threats.
 
+# What I Did
+
+- enabled Lambda function vulnerability scanning in Python 3.9 environments using Amazon Inspector
+
+- reviewed remediation-related CVE (Common Vulnerabilities and Exposures) findings
+
+- Security Group rules and network ACLs were used to limit needless access.
+
+- Multi-layered security controls were put in place for both public and private subnets.
+
+- used monitoring and logging to find questionable activity.
+
 
 
