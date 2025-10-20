@@ -16,7 +16,14 @@ Its includes defending servers, apps, and cloud resources against intrusions and
 
 - Implement Multi-layered security controls for both public and private subnets.
 
-- use monitoring and logging to find suspicious activities
+- use monitoring and logging to find suspicious activities.
+
+# Key Skills
+ - Cloud Security
+ - AWS secuirty services
+ - Network Architecture
+ - Vulnerabilities Management
+
 
 
 
