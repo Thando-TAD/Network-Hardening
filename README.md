@@ -10,15 +10,13 @@ Its includes defending servers, apps, and cloud resources against intrusions and
 
 # What I Did
 
-- enabled Lambda function vulnerability scanning in Python 3.9 environments using Amazon Inspector
+- enabled Lambda function vulnerability to scan in Python environments using Amazon Inspector.
 
-- reviewed remediation-related CVE (Common Vulnerabilities and Exposures) findings
+- Used security group rules and network ACLs were used to limit needless access.
 
-- Security Group rules and network ACLs were used to limit needless access.
+- Implement Multi-layered security controls for both public and private subnets.
 
-- Multi-layered security controls were put in place for both public and private subnets.
-
-- used monitoring and logging to find questionable activity.
+- use monitoring and logging to find suspicious activities
 
 
 
